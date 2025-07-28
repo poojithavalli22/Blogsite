@@ -18,17 +18,18 @@ Sunny Stories is a vibrant and inspiring blog website that features uplifting ar
 <br>
 🛠️ Technologies Used<br>
 HTML5<br>
-CSS3 (Custom Properties, Flexbox, Animations)
-JavaScript (ES6)
-Bootstrap 5
+CSS3 (Custom Properties, Flexbox, Animations)<br>
+JavaScript (ES6)<br>
+Bootstrap 5<br>
+<br>
 <br>
 
-📸 Demo Preview
-✨ Click the button in the hero section to scroll to blog cards
-📰 Click Read More to open a full blog post in a Bootstrap modal
+📸 Demo Preview<br>
+✨ Click the button in the hero section to scroll to blog cards<br>
+📰 Click Read More to open a full blog post in a Bootstrap modal<br>
 🎨 Hover on navbar brand and images for subtle animations
 <br>
-🤝 Contributing
+🤝 Contributing<br>
 Contributions, feedback, and suggestions are welcome! Feel free to fork this repo and submit a pull request.
 
 
