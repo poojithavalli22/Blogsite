@@ -1,6 +1,8 @@
 🌞 Sunny Stories – A Cheerful Blog
 Sunny Stories is a vibrant and inspiring blog website that features uplifting articles on lifestyle, creativity, wellness, and more. This project is built using HTML, CSS, JavaScript, and Bootstrap, and demonstrates dynamic content rendering, modals, animations, and responsive design.
 
+
+
 ✨ Features
 📰 Dynamic Blog Cards with modal read-more popups
 🎨 Beautiful Hero Section with parallax and animated shapes
@@ -9,6 +11,8 @@ Sunny Stories is a vibrant and inspiring blog website that features uplifting ar
 💬 Smooth Scroll Navigation with active link tracking
 🧠 Creative Design System using CSS variables and keyframe animations
 💫 Floating Particles for visual engagement
+
+
 
 
 🛠️ Technologies Used
